@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ab6e7e11cb867fb",
+            "id": "610b98efcfe5ef96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storytelling/concepts/inciting-incident.md",
+                "file": "Storytelling/concepts/climax.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "inciting-incident"
+              "title": "climax"
             }
           }
         ]
@@ -166,15 +166,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "3ab6e7e11cb867fb",
+  "active": "610b98efcfe5ef96",
   "lastOpenFiles": [
+    "Storytelling/concepts/turning-point.md",
+    "Storytelling/concepts/climax.md",
+    "Storytelling/concepts/resolution.md",
+    "Storytelling/concepts/stakes.md",
+    "Storytelling/log.md",
+    "Storytelling/index.md",
+    "Storytelling/concepts/inciting-incident.md",
     "Storytelling/concepts/midpoint.md",
     "Storytelling/concepts/eight-sequence-structure.md",
     "Storytelling/concepts/three-act-structure.md",
-    "Storytelling/index.md",
-    "Storytelling/log.md",
     "Storytelling/synthesis/three-act-vs-eight-sequence.md",
-    "Storytelling/concepts/inciting-incident.md",
     "concepts",
     "Untitled.canvas",
     "Untitled.base",

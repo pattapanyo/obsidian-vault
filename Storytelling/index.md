@@ -29,6 +29,10 @@
 | [[concepts/eight-sequence-structure]] | Granular 8-sequence map that fits inside the three-act framework |
 | [[concepts/midpoint]] | The structural hinge at the center of Act 2 |
 | [[concepts/inciting-incident]] | The event that disrupts the protagonist's world and starts the story |
+| [[concepts/turning-point]] | The hinge moments that shift the story's direction irreversibly |
+| [[concepts/climax]] | The moment of maximum tension where the central conflict is confronted |
+| [[concepts/resolution]] | The aftermath of the climax showing what has changed |
+| [[concepts/stakes]] | What the protagonist stands to lose if they fail |
 
 ---
 

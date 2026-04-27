@@ -16,3 +16,8 @@
 
 **Pages created:** concepts/midpoint, concepts/inciting-incident  
 **Summary:** Filled two orphan links found in eight-sequence-structure.md and three-act-structure.md. Both seeded from chat knowledge, no external source yet.
+
+## [2026-04-27] ingest | Tier 1 structural concepts added
+
+**Pages created:** concepts/turning-point, concepts/climax, concepts/resolution, concepts/stakes  
+**Summary:** Completed the structural foundation. Wiki now covers the full spine of three-act and eight-sequence frameworks with all major structural beats documented.
