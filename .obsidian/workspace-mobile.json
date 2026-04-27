@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storytelling/concepts/climax.md",
+                "file": "Storytelling/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "climax"
+              "title": "index"
             }
           }
         ]
@@ -168,12 +168,20 @@
   },
   "active": "610b98efcfe5ef96",
   "lastOpenFiles": [
-    "Storytelling/concepts/turning-point.md",
-    "Storytelling/concepts/climax.md",
-    "Storytelling/concepts/resolution.md",
-    "Storytelling/concepts/stakes.md",
     "Storytelling/log.md",
     "Storytelling/index.md",
+    "Storytelling/entities/Billy Wilder.md",
+    "Storytelling/concepts/subtext.md",
+    "Storytelling/entities/Paul Gulino.md",
+    "Storytelling/entities/Cameron Crowe.md",
+    "Storytelling/sources/billy-wilder-10-rules.md",
+    "Storytelling/sources",
+    "billy-wilder-10-rules",
+    "Storytelling/entities/Frank Daniel.md",
+    "Storytelling/concepts/climax.md",
+    "Storytelling/concepts/turning-point.md",
+    "Storytelling/concepts/resolution.md",
+    "Storytelling/concepts/stakes.md",
     "Storytelling/concepts/inciting-incident.md",
     "Storytelling/concepts/midpoint.md",
     "Storytelling/concepts/eight-sequence-structure.md",
@@ -186,8 +194,6 @@
     "2026-04-27.md",
     "Untitled 1.base",
     "Untitled 1.canvas",
-    "Storytelling/entities/Frank Daniel.md",
-    "Storytelling/entities/Paul Gulino.md",
     "synthesis/three-act-vs-eight-sequence.md",
     "synthesis",
     "concepts/eight-sequence-structure.md",
@@ -200,8 +206,6 @@
     "LLM-Wiki/log.md",
     "LLM-Wiki/CLAUDE.md",
     "theVault.canvas",
-    "LLM-Wiki/Claude.md",
-    "LLM-Wiki",
-    "Index"
+    "LLM-Wiki/Claude.md"
   ]
 }

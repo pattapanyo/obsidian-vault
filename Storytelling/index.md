@@ -18,6 +18,7 @@
 
 | Page | Summary | Date |
 |------|---------|------|
+| [[sources/billy-wilder-10-rules]] | Wilder's 10 rules from Conversations with Wilder (1999) | 2026-04-27 |
 
 ---
 
@@ -33,6 +34,7 @@
 | [[concepts/climax]] | The moment of maximum tension where the central conflict is confronted |
 | [[concepts/resolution]] | The aftermath of the climax showing what has changed |
 | [[concepts/stakes]] | What the protagonist stands to lose if they fail |
+| [[concepts/subtext]] | What is communicated without being stated directly |
 
 ---
 
@@ -42,6 +44,8 @@
 |------|------|-----------------|
 | [[entities/Frank Daniel]] | Person | USC professor who developed the eight-sequence approach |
 | [[entities/Paul Gulino]] | Person | Author who popularized sequence structure in screenwriting |
+| [[entities/Billy Wilder]] | Person | Golden Age Hollywood screenwriter-director, author of 10 rules |
+| [[entities/Cameron Crowe]] | Person | Director who compiled Wilder's rules in Conversations with Wilder |
 
 ---
 
