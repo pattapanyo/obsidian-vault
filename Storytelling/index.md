@@ -9,8 +9,7 @@
 
 | File | Description |
 |------|-------------|
-| [[AI.md]] | Schema and workflow instructions (Gemini Paid Tier) |
-| [[CLAUDE.md]] | Schema and workflow instructions |
+| [[AI]] | Schema and workflow instructions (Gemini Paid Tier) |
 | [[log]] | Chronological record of all wiki activity |
 
 ---
@@ -36,6 +35,9 @@
 | [[concepts/resolution]] | The aftermath of the climax showing what has changed |
 | [[concepts/stakes]] | What the protagonist stands to lose if they fail |
 | [[concepts/subtext]] | What is communicated without being stated directly |
+| [[concepts/protagonist]] | The active character driving the clean line of action |
+| [[concepts/major-dramatic-question]] | The central Yes/No question that drives audience engagement |
+| [[concepts/antagonist]] | The resistant force that drives conflict and character change |
 
 ---
 

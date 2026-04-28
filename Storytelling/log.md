@@ -34,4 +34,11 @@
 ## [2026-04-28] lint | Wilder-hardening structural core
 - **Files Modified:** AI.md, concepts/climax.md, concepts/three-act-structure.md
 - **Summary:** Renamed schema to AI.md. Integrated Billy Wilder’s Rules 3, 6, 9, and 10 into core structural concepts to fix logic "leaks" identified during the lint pass.
-- 
+
+## [2026-04-28] ingest | Character Arc concept draft
+- **Pages Created:** concepts/protagonist.md, concepts/major-dramatic-question.md, concepts/antagonist.md
+- **Summary:** Drafted the protagonist core page using a synthesis of Wilder’s "Clean Line" and Daniel’s "Polar Extremes." Established the protagonist as the structural bridge between setup and payoff.
+- **Summary:** Established the MDQ as the engine of engagement. Synthesized the external "Yes/No" question with the protagonist's internal "Need" to provide a framework for innovative, non-standard resolutions.
+- **Summary:** Defined antagonism as a multi-level force (Internal, Interpersonal, Extra-personal). Synthesized the antagonist as a "Mirror" or "Shadow" to the protagonist to drive innovative character arcs.
+
+
