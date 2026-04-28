@@ -9,6 +9,7 @@
 
 | File | Description |
 |------|-------------|
+| [[AI.md]] | Schema and workflow instructions (Gemini Paid Tier) |
 | [[CLAUDE.md]] | Schema and workflow instructions |
 | [[log]] | Chronological record of all wiki activity |
 

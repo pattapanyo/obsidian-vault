@@ -30,3 +30,8 @@
 **Concepts touched:** stakes, turning-point, climax, resolution, inciting-incident  
 **Orphan links created:** concepts/protagonist (mentioned in rule 3, page not yet written)  
 **Summary:** First real source ingest. Wilder's rules reinforced existing structural concepts and introduced subtext as a new concept. Rule 6 (third act problems are first act problems) is a strong candidate for a future synthesis page.
+
+## [2026-04-28] lint | Wilder-hardening structural core
+- **Files Modified:** AI.md, concepts/climax.md, concepts/three-act-structure.md
+- **Summary:** Renamed schema to AI.md. Integrated Billy Wilder’s Rules 3, 6, 9, and 10 into core structural concepts to fix logic "leaks" identified during the lint pass.
+- 

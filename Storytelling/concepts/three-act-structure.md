@@ -18,6 +18,11 @@ The broadest organizational framework for screenplays, dividing a story into thr
 
 Act 2 is the most challenging to write because its length gives little structural guidance on its own. This is where [[concepts/eight-sequence-structure]] becomes essential.
 
+### The Wilder-Daniel Synthesis
+- **Rule 6 (The Root Cause):** If a problem appears in Act 3, the actual failure occurred in Act 1.
+- **Rule 9 (The Trigger):** The event at the end of Act 2 (Sequence 6) isn't just a turn; it is the specific "trigger" for the ending.
+- **Polar Extremes:** The movement from Act 1 to Act 3 should represent the character's journey between psychological poles (Frank Daniel).
+
 ## Why It Matters
 Three-act structure tells you the *shape* of the story — where you are at any given moment. Almost every produced Hollywood screenplay maps onto it, consciously or not. It is the foundation all other structural frameworks build on or react against.
 

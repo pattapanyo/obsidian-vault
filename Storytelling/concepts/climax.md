@@ -25,6 +25,11 @@ These are often confused but are separate beats:
 | **Tone** | Maximum tension | Release, consequence |
 | **Question** | Will the protagonist succeed? | What has changed? |
 
+### Wilder's Perspective
+- **Rule 10 (Tempo):** The climax must "build, build, build" in tempo and action until the last event. 
+- **Rule 10 (The Exit):** Once the climax happens, "that's it." Don't hang around; the resolution must be brief.
+- **Rule 3 (Active Goal):** The climax is the final proof of the protagonist's "clean line of action." They must drive the outcome, not be rescued.
+
 ## Examples
 - **Alien (1979):** Ripley's final confrontation with the alien in the escape shuttle — active choice, real cost
 - **Chinatown (1974):** The parking lot — everything the protagonist fought for is destroyed
