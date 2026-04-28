@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "log"
             }
-          },
-          {
-            "id": "17c0538ec7831bbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storytelling/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ]
       }
@@ -183,8 +169,9 @@
   "active": "a7d2ddff87c3b8e1",
   "lastOpenFiles": [
     "Storytelling/index.md",
-    "Storytelling/concepts/major-dramatic-question.md",
+    "Storytelling/concepts/inciting-incident.md",
     "Storytelling/log.md",
+    "Storytelling/concepts/major-dramatic-question.md",
     "Storytelling/concepts/antagonist.md",
     "Storytelling/concepts/protagonist.md",
     "Protagonist.md",
@@ -203,7 +190,6 @@
     "Storytelling/concepts/turning-point.md",
     "Storytelling/concepts/resolution.md",
     "Storytelling/concepts/stakes.md",
-    "Storytelling/concepts/inciting-incident.md",
     "Storytelling/concepts/midpoint.md",
     "Storytelling/concepts/eight-sequence-structure.md",
     "Storytelling/synthesis/three-act-vs-eight-sequence.md",

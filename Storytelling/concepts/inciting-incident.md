@@ -9,13 +9,15 @@ tags: [structure, screenwriting, act-1]
 The event that disrupts the protagonist's ordinary world and sets the story in motion. It is the moment the story truly begins — everything before it is setup.
 
 ## How It Works
-The inciting incident creates the **central dramatic question** the audience will spend the rest of the film waiting to see answered. It forces the protagonist to respond and ultimately commits them to the journey of Act 2.
+The inciting incident is the "Big Bang" of the story. It creates the **[[concepts/major-dramatic-question|Major Dramatic Question]]** (MDQ) that the audience spends the rest of the film waiting to see answered.
 
-Two key qualities:
-- **It is external** — something happens *to* the protagonist, not something they choose
-- **It is irreversible** — the world cannot go back to how it was before
+- **The Hook:** It must "grab 'em by the throat" (Wilder Rule 2).
+- **The MDQ:** If the incident doesn't raise a clear Yes/No question, Act 2 will sag.
+- **The Setup (Rule 6):** As Wilder noted, a problem in the third act usually means the inciting incident or Act 1 setup failed to establish the stakes properly.
 
-In [[concepts/three-act-structure]] it occurs near the end of Act 1. In [[concepts/eight-sequence-structure]] it arrives in Sequence 1 and gets fully locked in by the end of Sequence 2.
+## Sources
+- [[sources/billy-wilder-10-rules]] — Rules 2 and 6.
+- [[concepts/major-dramatic-question]] — The structural result of this event.
 
 ## Placement
 | Script page | Timing |
