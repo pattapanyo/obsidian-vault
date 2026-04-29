@@ -1,39 +1,48 @@
-#!/usr/bin/env python3
-"""
-yt_ingest.py
-
-Usage:
-  python yt_ingest.py <YOUTUBE_URL>
-
-Dependencies:
-  pip install pytube youtube-transcript-api
-
-This script fetches the transcript for a YouTube video and saves it as a markdown
-file in Storytelling/sources/ using the video title as filename (sanitized).
-"""
-
-from __future__ import annotations
-import argparse
-import datetime
-import os
-import re
 import sys
+import os
+from youtube_transcript_api import YouTubeTranscriptApi
 
-try:
-    from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
-except Exception:
-    print("Missing dependency: youtube-transcript-api. Install with: pip install youtube-transcript-api", file=sys.stderr)
-    raise
+def get_video_id(url):
+    if "v=" in url:
+        return url.split("v=")[1].split("&")[0]
+    elif "be/" in url:
+        return url.split("be/")[1].split("?")[0]
+    return url
 
-try:
-    from pytube import YouTube
-except Exception:
-    print("Missing dependency: pytube. Install with: pip install pytube", file=sys.stderr)
-    raise
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python yt_ingest.py <URL>")
+        return
 
+    url = sys.argv[1]
+    video_id = get_video_id(url)
+    
+    try:
+        print(f"Fetching transcript for: {video_id}...")
+        # Simpler method that works across versions
+        transcript_list = YouTubeTranscriptApi.get_transcript(video_id)
+        
+        # Combine text into one block
+        text = "\n".join([t['text'] for t in transcript_list])
+        
+        # Save to Storytelling/sources/
+        output_dir = "Storytelling/sources"
+        os.makedirs(output_dir, exist_ok=True)
+        
+        filename = f"{output_dir}/YT_{video_id}.md"
+        
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(f"# YouTube Transcript: {video_id}\n\n")
+            f.write(f"Source: {url}\n\n---\n\n")
+            f.write(text)
+            
+        print(f"✅ Success! Saved to {filename}")
+        
+    except Exception as e:
+        print(f"❌ Error: {str(e)}")
 
-def slugify(title: str) -> str:
-    """Make a filesystem-safe filename from the title."""
+if __name__ == "__main__":
+    main()
     s = title.strip()
     s = re.sub(r"[\\/:*?\"<>|]+", "", s)
     s = re.sub(r"\s+", "_", s)
