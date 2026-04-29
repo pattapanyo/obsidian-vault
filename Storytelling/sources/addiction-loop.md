@@ -136,3 +136,4 @@ If you want to learn how to tell better stories, all you have to do is understan
 [21:27](https://youtu.be/KyC8r-zitVE?si=dsBda3doWMLfjx_-&t=1287) consider subscribing and make sure to check out all of the free stuff I have in the description. I'm literally just giving the sauce away when it comes to content and everything you can do to
 [21:36](https://youtu.be/KyC8r-zitVE?si=dsBda3doWMLfjx_-&t=1296) grow faster. If you want another video on storytelling that breaks down something completely different, this is one of my favorites that I've ever made. People loved it. I'll put it up here if
 [21:44](https://youtu.be/KyC8r-zitVE?si=dsBda3doWMLfjx_-&t=1304) you guys want to watch it. All right, we will see you guys on the next one. Peace.
+[[index]]
