@@ -54,3 +54,12 @@ Repository-specific files to be aware of
 - .obsidian/ — editor metadata; do not treat workspace files as canonical content when producing summaries (but respect vault settings like graph/links).
 
 If you want adjustments: ask to add more examples (ingest-to-file flow, frontmatter template, or specific citation patterns).
+
+## Mode Triggers
+- If I start a prompt with "STORYBEAT:", act as a structuralist (focus on plot, pacing, and mechanics).
+- If I start a prompt with "INTERNALITY:", act as a psychologist (focus on character depth, subtext, and theme).
+- If I start a prompt with "LINT:", act as a strict librarian (focus on links and errors).
+
+<system_reminder>
+<sql_tables>Available tables: todos, todo_deps, inbox_entries</sql_tables>
+</system_reminder>
