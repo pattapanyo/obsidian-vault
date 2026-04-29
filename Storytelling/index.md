@@ -9,7 +9,7 @@
 
 | File | Description |
 |------|-------------|
-| [[AI]] | Schema and workflow instructions (Gemini Paid Tier) |
+| [[.GitHub/copilot-instructions]] | Local assistant guidance for Storytelling wiki |
 | [[log]] | Chronological record of all wiki activity |
 
 ---
