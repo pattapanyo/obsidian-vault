@@ -7,10 +7,10 @@
 
 ## Meta
 
-| File | Description |
-|------|-------------|
-| [[.GitHub/copilot-instructions]] | Local assistant guidance for Storytelling wiki |
-| [[log]] | Chronological record of all wiki activity |
+| File                             | Description                                    |
+| -------------------------------- | ---------------------------------------------- |
+| [[.github/copilot-instructions]] | Local assistant guidance for Storytelling wiki |
+| [[log]]                          | Chronological record of all wiki activity      |
 
 ---
 
