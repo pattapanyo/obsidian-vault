@@ -1,7 +1,7 @@
 # Storytelling Wiki — Index
 
 > Master catalog of all pages. Paste this at the start of each new Claude session.  
-> Last updated: 2026-04-27
+> Last updated: 2026-04-29
 
 ---
 

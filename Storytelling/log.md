@@ -4,6 +4,15 @@
 
 ---
 
+## [2026-04-29] remove | AI.md
+
+**Files removed:** AI.md
+**Files modified:** index.md
+
+**Summary:** Removed AI.md per request and updated index.md to remove the AI reference.
+
+---
+
 ## [2026-04-27] ingest | Wiki initialized + first concepts
 
 **Pages created:** CLAUDE.md, index.md, log.md  
