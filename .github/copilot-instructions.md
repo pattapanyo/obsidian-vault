@@ -54,3 +54,7 @@ Repository-specific files to be aware of
 - .obsidian/ — editor metadata; do not treat workspace files as canonical content when producing summaries (but respect vault settings like graph/links).
 
 If you want adjustments: ask to add more examples (ingest-to-file flow, frontmatter template, or specific citation patterns).
+
+<system_reminder>
+<sql_tables>Available tables: todos, todo_deps, inbox_entries</sql_tables>
+</system_reminder>
