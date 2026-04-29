@@ -32,7 +32,9 @@ Innovation often occurs when the external MDQ and the internal **Need** (from th
 - [[concepts/climax]]
 - [[concepts/protagonist]]
 - [[concepts/stakes]]
+- [[synthesis/addiction-loop-vs-mdq]]
 
 ## Sources
 - [[entities/Frank Daniel]] — MDQ and the "Predicate"
 - [[sources/billy-wilder-10-rules]] — Rule 3 (Clean Line) and Rule 9 (The Trigger)
+- [[sources/addiction-loop]] — Engagement technique: addiction loop (stakes → big question → head fake → rehook)

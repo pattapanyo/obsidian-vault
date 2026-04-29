@@ -19,6 +19,7 @@
 | Page | Summary | Date |
 |------|---------|------|
 | [[sources/billy-wilder-10-rules]] | Wilder's 10 rules from Conversations with Wilder (1999) | 2026-04-27 |
+| [[sources/addiction-loop]] | Transcript: four-step addiction loop for story engagement | 2026-04-29 |
 
 ---
 
@@ -35,6 +36,7 @@
 | [[concepts/resolution]] | The aftermath of the climax showing what has changed |
 | [[concepts/stakes]] | What the protagonist stands to lose if they fail |
 | [[concepts/subtext]] | What is communicated without being stated directly |
+| [[concepts/addiction-loop]] | Neurochemical engagement loop: stakes → big question → head fake → rehook |
 | [[concepts/protagonist]] | The active character driving the clean line of action |
 | [[concepts/major-dramatic-question]] | The central Yes/No question that drives audience engagement |
 | [[concepts/antagonist]] | The resistant force that drives conflict and character change |
@@ -57,3 +59,4 @@
 | Page                                      | Summary                                            | Date       |
 | ----------------------------------------- | -------------------------------------------------- | ---------- |
 | [[synthesis/three-act-vs-eight-sequence]] | How three-act and eight-sequence structures relate | 2026-04-27 |
+| [[synthesis/addiction-loop-vs-mdq]] | Maps the addiction-loop (stakes → question → head fake → rehook) onto MDQ and three-act beats | 2026-04-29 |

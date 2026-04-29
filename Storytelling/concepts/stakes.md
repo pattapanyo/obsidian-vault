@@ -35,6 +35,7 @@ Stakes only work if the audience believes in them. This is why character work in
 - [[concepts/turning-point]]
 - [[concepts/protagonist]]
 - [[concepts/character-arc]]
+- [[synthesis/addiction-loop-vs-mdq]]
 
 ## Sources
-*(none yet — seeded from chat)*
+- [[sources/addiction-loop]] — Transcript on the four-step addiction loop (stakes → big question → head fake → rehook)

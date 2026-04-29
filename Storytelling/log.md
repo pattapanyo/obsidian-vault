@@ -4,6 +4,25 @@
 
 ---
 
+## [2026-04-29] ingest | addiction-loop transcript
+
+**Pages created:** sources/addiction-loop  
+**Concepts created:** concepts/addiction-loop  
+**Files modified:** index.md, log.md, concepts/stakes.md, concepts/major-dramatic-question.md
+
+**Summary:** Ingested transcript describing a four-step "addiction loop" used to sustain audience engagement (stakes → big question → head fake → rehook). Created a concept page and linked it from related concepts.
+
+---
+
+## [2026-04-29] synthesize | addiction-loop vs MDQ/three-act
+
+**Pages created:** synthesis/addiction-loop-vs-mdq  
+**Files modified:** synthesis/addiction-loop-vs-mdq, index.md, log.md, concepts/stakes.md, concepts/major-dramatic-question.md
+
+**Summary:** Short synthesis mapping the addiction-loop steps to the Major Dramatic Question and three-act beats; practical guidance on using scene-level loops to sustain attention while preserving story-level MDQ.
+
+---
+
 ## [2026-04-29] remove | AI.md
 
 **Files removed:** AI.md
