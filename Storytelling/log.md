@@ -4,6 +4,15 @@
 
 ---
 
+## [2026-04-29] remove | AI.md
+
+**Files removed:** AI.md
+**Files modified:** index.md
+
+**Summary:** Removed AI.md per request and updated index.md to remove the AI reference.
+
+---
+
 ## [2026-04-27] ingest | Wiki initialized + first concepts
 
 **Pages created:** CLAUDE.md, index.md, log.md  
@@ -39,4 +48,5 @@
 - **Pages Created:** concepts/protagonist.md, concepts/major-dramatic-question.md, concepts/antagonist.md
 - **Summary:** Drafted the protagonist core page using a synthesis of Wilder’s "Clean Line" and Daniel’s "Polar Extremes." Established the protagonist as the structural bridge between setup and payoff.
 - **Summary:** Established the MDQ as the engine of engagement. Synthesized the external "Yes/No" question with the protagonist's internal "Need" to provide a framework for innovative, non-standard resolutions.
-- **Summary:** Defined antagonism as a multi-level force (Internal, Interpersonal, Extra-personal). Synthesized the antagonist as a "Mirror" or "Shadow" to the protagonist to drive innovative character arcs.
+- **Summary:** Defined antagonism as a multi-level force (Internal, Interpersonal, Extra-personal). Synthesized the antagonist as a "Mirror" or "Shadow" to the protagonist to drive innovative character arcs.### 2026-04-29
+- Removed duplicate Storytelling/.GitHub/copilot-instructions.md; canonical copy kept at .github/copilot-instructions.md

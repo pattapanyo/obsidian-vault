@@ -1,7 +1,7 @@
 # Storytelling Wiki — Index
 
 > Master catalog of all pages. Paste this at the start of each new Claude session.  
-> Last updated: 2026-04-27
+> Last updated: 2026-04-29
 
 ---
 
@@ -9,7 +9,7 @@
 
 | File | Description |
 |------|-------------|
-| [[AI]] | Schema and workflow instructions (Gemini Paid Tier) |
+| [[.GitHub/copilot-instructions]] | Local assistant guidance for Storytelling wiki |
 | [[log]] | Chronological record of all wiki activity |
 
 ---
